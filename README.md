@@ -1,0 +1,2 @@
+# Data-Analysis-Project-using-SQL-Music-Store-Database
+Implemented SQL queries to analyze customer behavior, sales trends, and artist popularity in a music store database  Analyzed customer, artist, album, and track data in PostgreSQL to identify an top revenue-driving genres and artists  Analyzed regional sales patterns and derived key insights on employee hierarchy and customer support using SQL
